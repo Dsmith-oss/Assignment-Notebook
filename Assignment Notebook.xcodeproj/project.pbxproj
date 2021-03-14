@@ -11,6 +11,8 @@
 		4A05645F25FEA173009D3464 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A05645E25FEA173009D3464 /* ContentView.swift */; };
 		4A05646125FEA177009D3464 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A05646025FEA177009D3464 /* Assets.xcassets */; };
 		4A05646425FEA177009D3464 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A05646325FEA177009D3464 /* Preview Assets.xcassets */; };
+		4A05646D25FEA1B4009D3464 /* Add View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A05646C25FEA1B4009D3464 /* Add View.swift */; };
+		4A05647025FEA1FD009D3464 /* Assignment List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A05646F25FEA1FD009D3464 /* Assignment List.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		4A05646025FEA177009D3464 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A05646325FEA177009D3464 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4A05646525FEA177009D3464 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A05646C25FEA1B4009D3464 /* Add View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add View.swift"; sourceTree = "<group>"; };
+		4A05646F25FEA1FD009D3464 /* Assignment List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Assignment List.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				4A05645C25FEA173009D3464 /* Assignment_NotebookApp.swift */,
 				4A05645E25FEA173009D3464 /* ContentView.swift */,
+				4A05646C25FEA1B4009D3464 /* Add View.swift */,
+				4A05646F25FEA1FD009D3464 /* Assignment List.swift */,
 				4A05646025FEA177009D3464 /* Assets.xcassets */,
 				4A05646525FEA177009D3464 /* Info.plist */,
 				4A05646225FEA177009D3464 /* Preview Content */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A05645F25FEA173009D3464 /* ContentView.swift in Sources */,
+				4A05647025FEA1FD009D3464 /* Assignment List.swift in Sources */,
 				4A05645D25FEA173009D3464 /* Assignment_NotebookApp.swift in Sources */,
+				4A05646D25FEA1B4009D3464 /* Add View.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
